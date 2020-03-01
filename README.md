@@ -1,6 +1,6 @@
 # Landmark Label
 
-<img src="/landmarklabel.png" />
+<img src="/landmarklabel.png" width=400/>
 
 
 ## Getting Started
